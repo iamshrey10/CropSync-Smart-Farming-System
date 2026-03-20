@@ -3,6 +3,18 @@
 A cross platform smart farming platform designed to help farmers make better agricultural decisions using real time weather data, financial tools, and market insights.
 
 ---
+## 🏆 Research Publication
+
+This project formed the basis of the research paper:
+
+**CropSync: AI-Driven Blockchain Solution for Smart Farming**
+
+Presented at the **14th International Conference on Recent Challenges in Engineering and Technology (ICRCET 2025)**.
+
+The research explores how AI-driven analytics, blockchain-based traceability, and real-time agricultural data can improve transparency and decision-making across farming ecosystems.
+
+📄 Read the full paper here:  
+[Research Paper](https://drive.google.com/drive/folders/1X0oZZLyCRHZN24mBnEllNOWJfU4n7LwC?usp=drive_link)
 
 ## 📱 Application Overview
 
