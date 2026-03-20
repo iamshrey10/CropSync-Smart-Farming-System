@@ -61,12 +61,9 @@ Allows farmers to track commodity prices in different markets.
 ---
 # 🖼 Application Screenshots
 
-<p align="center">
-  <img src="images/home.png" width="200"/>
-  <img src="images/weather.png" width="200"/>
-  <img src="images/finance.png" width="200"/>
-  <img src="images/market.png" width="200"/>
-</p>
+| Home | Weather | Finance | Market |
+|-----|-----|-----|-----|
+| <img src="images/home.png" width="200"/> | <img src="images/weather.png" width="200"/> | <img src="images/finance.png" width="200"/> | <img src="images/market.png" width="200"/> |
 
 # 🛠 Tech Stack
 
