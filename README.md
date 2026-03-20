@@ -68,17 +68,37 @@ Allows farmers to track commodity prices in different markets.
 # 🛠 Tech Stack
 
 ### Frontend
-Flutter
+
+<p>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+</p>
+
+---
 
 ### Backend
-Flask
+
+<p>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+---
 
 ### Database
-MySQL
+
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+---
 
 ### APIs
-Weather API  
-Agriculture Market Data API
+
+<p>
+<img src="https://img.shields.io/badge/Weather_API-1E90FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agriculture_Market_API-228B22?style=for-the-badge"/>
+</p>
 
 ---
 
