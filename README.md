@@ -101,5 +101,3 @@ Allows farmers to track commodity prices in different markets.
 </p>
 
 ---
-
-# 🧠 System Architecture
